@@ -1,0 +1,31 @@
+/**************************************TAG SELECTORS***************************/
+  body {
+    background-color: #eaf6f6;
+  }
+
+  h1, h3 {
+    color: #66bfbf;
+  }
+
+
+  hr {
+    border-color: lightgrey;
+    border-style: dotted none none;
+    border-width: 8px;
+    width: 6%;
+  }
+
+  img {
+    border-radius: 45%;
+  }
+
+/**************************************CLASS SELECTORS*************************/
+.cat:hover {
+    border-color: pink;
+    border-style: solid;
+}
+
+/**************************************ID SELECTORS****************************/
+/*
+test komentáře
+*/
